@@ -1,8 +1,7 @@
 # Awesome-AI-Video  
 ## AI驱动的创意视频运镜方案库  
-
+![logo](logo.png)
 <div align="center">
-  ![logo](/pic/logo.png)  
   <p style="color:#666; margin-top:8px;">用AI镜头语言，解锁视觉新张力</p>
 </div>
 
